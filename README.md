@@ -1,12 +1,10 @@
-# learn_sentry
+# Install Sentry self-hosted with https
 
-[https://develop.sentry.dev/self-hosted]  
-[https://github.com/getsentry/self-hosted]  
+[https://develop.sentry.dev/self-hosted]
+[https://github.com/getsentry/self-hosted]
 
-## Change the access permissions for the following files  
+## Change the access permissions for the following files
 
-./install.sh  
-./cron/entrypoint.sh  
-./sentry/entrypoint.sh  
-
-`chmod 744 [FILE]`
+`chmod 744 ./install.sh`
+`chmod 744 ./cron/entrypoint.sh`
+`chmod 744 ./sentry/entrypoint.sh`
