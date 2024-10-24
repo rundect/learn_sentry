@@ -1,3 +1,11 @@
-#### learn_sentry
+### learn_sentry
 
-https://docs.sentry.io/platforms/python/
+https://develop.sentry.dev/self-hosted  
+https://github.com/getsentry/self-hosted  
+
+Change the access permissions for the following files:
+./install.sh
+./cron/entrypoint.sh
+./sentry/entrypoint.sh
+
+`chmod 744 [FILE]`
