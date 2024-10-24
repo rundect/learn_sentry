@@ -3,7 +3,7 @@
 [https://develop.sentry.dev/self-hosted]  
 [https://github.com/getsentry/self-hosted]  
 
-## Change the access permissions for the following files:  
+## Change the access permissions for the following files  
 
 ./install.sh  
 ./cron/entrypoint.sh  
