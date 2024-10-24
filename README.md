@@ -1,4 +1,4 @@
-# Install Sentry self-hosted with https
+# Install Sentry self-hosted 24.10.0 with https on Ubuntu 22.04
 
 [https://develop.sentry.dev/self-hosted]
 [https://github.com/getsentry/self-hosted]
